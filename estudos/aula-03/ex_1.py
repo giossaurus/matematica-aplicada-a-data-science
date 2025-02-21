@@ -1,11 +1,12 @@
-#Exercicio 1 - f(x) = 8 * 3**x
+# Exercicio 1 - f(x) = 8 * 3**x
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = np.linspace(-2, 2, 100)
+x = np.linspace(0, 4, 100)
+
 y = 8 * (3 ** x)
 
-plt.plot(x, y)
+plt.plot(x, y, label='f(x) = 8 * 3^x')
 plt.axhline(0, color='black', linewidth=0.5)
 plt.axvline(0, color='black', linewidth=0.5)
 
