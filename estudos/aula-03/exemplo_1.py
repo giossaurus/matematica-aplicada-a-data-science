@@ -1,4 +1,4 @@
-#Exemplo 01
+# Exemplo 01
 import numpy as np
 import matplotlib.pyplot as plt
 

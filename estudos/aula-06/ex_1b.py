@@ -1,4 +1,4 @@
-#Exercício 1 - Verificando a identidade de sinˆ2(60º)+ cosˆ2(60º)=1
+#Exercício 1b - Verificando a identidade de sinˆ2(60º)+ cosˆ2(60º)=1
 import numpy as np
 import matplotlib.pyplot as plt
 
